@@ -1,0 +1,537 @@
+<?xml version="1.0"?> 
+<settings> 
+ 
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml --> 
+ 
+  <filename>guide.xml</filename> 
+  <mode></mode> 
+  <postprocess grab="y" run="n">mdb</postprocess> 
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent> 
+  <logging>on</logging> 
+  <retry time-out="5">4</retry> 
+  <timespan>1</timespan> 
+  <update>f</update> 
+    <channel update="i" site="tvplus.com.br.E" site_id="GSP" xmltv_id="Globo SP FHD">Globo SP FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GSP" xmltv_id="Globo SP HD">Globo SP HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GSP" xmltv_id="Globo SP">Globo SP</channel>
+    <channel update="i" site="clarotv.com.br" site_id="86" xmltv_id="SBT FHD">SBT FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="86" xmltv_id="SBT HD">SBT HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="86" xmltv_id="SBT HD Alternativo">SBT HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BAN" xmltv_id="Band FHD">Band FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BAN" xmltv_id="Band HD">Band HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BAN" xmltv_id="Band">Band</channel>
+    <channel update="i" site="clarotv.com.br" site_id="240" xmltv_id="Rede TV FHD">Rede TV FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="240" xmltv_id="Rede TV HD">Rede TV HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="103" xmltv_id="TV Cultura FHD">TV Cultura FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CUL" xmltv_id="TV Cultura FHD">TV Cultura FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="103" xmltv_id="TV Cultura HD">TV Cultura HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CUL" xmltv_id="TV Cultura HD">TV Cultura HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CUL" xmltv_id="TV Cultura">TV Cultura</channel>
+    <channel update="i" site="clarotv.com.br" site_id="103" xmltv_id="TV Cultura">TV Cultura</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TED" xmltv_id="TV Brasil">TV Brasil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="101" xmltv_id="TV Brasil">TV Brasil</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NBR" xmltv_id="TV Brasil 2">TV Brasil 2</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GAZ" xmltv_id="TV Gazeta HD">TV Gazeta HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GAZ" xmltv_id="TV Gazeta">TV Gazeta</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESC" xmltv_id="TV Escola">TV Escola</channel>
+    <channel update="i" site="clarotv.com.br" site_id="105" xmltv_id="TV Escola">TV Escola</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CAM" xmltv_id="TV Câmara">TV Câmara</channel>
+    <channel update="i" site="clarotv.com.br" site_id="104" xmltv_id="TV Câmara">TV Câmara</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SEN" xmltv_id="TV Senado">TV Senado</channel>
+    <channel update="i" site="clarotv.com.br" site_id="110" xmltv_id="TV Senado">TV Senado</channel>
+    <channel update="i" site="clarotv.com.br" site_id="14" xmltv_id="Canal Brasil FHD">Canal Brasil FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CBR" xmltv_id="Canal Brasil FHD">Canal Brasil FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="14" xmltv_id="Canal Brasil HD">Canal Brasil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CBR" xmltv_id="Canal Brasil HD">Canal Brasil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CBR" xmltv_id="Canal Brasil">Canal Brasil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="14" xmltv_id="Canal Brasil">Canal Brasil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="46" xmltv_id="Futura FHD">Futura FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FUT" xmltv_id="Futura FHD">Futura FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="46" xmltv_id="Futura HD">Futura HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FUT" xmltv_id="Futura HD">Futura HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FUT" xmltv_id="Futura">Futura</channel>
+    <channel update="i" site="clarotv.com.br" site_id="46" xmltv_id="Futura">Futura</channel>
+    <channel update="i" site="clarotv.com.br" site_id="69" xmltv_id="NBR">NBR</channel>
+    <channel update="i" site="clarotv.com.br" site_id="118" xmltv_id="Terra Viva">Terra Viva</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RUR" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel update="i" site="clarotv.com.br" site_id="15" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BOI" xmltv_id="Canal do Boi">Canal do Boi</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RBR" xmltv_id="Rede Brasil">Rede Brasil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="235" xmltv_id="Rede Brasil">Rede Brasil</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GLN" xmltv_id="Globo News FHD">Globo News FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GLN" xmltv_id="Globo News HD">Globo News HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GLN" xmltv_id="Globo News">Globo News</channel>
+    <channel update="i" site="clarotv.com.br" site_id="7" xmltv_id="Band News FHD">Band News FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NEW" xmltv_id="Band News FHD">Band News FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="7" xmltv_id="Band News HD">Band News HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NEW" xmltv_id="Band News HD">Band News HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NEW" xmltv_id="Band News">Band News</channel>
+    <channel update="i" site="clarotv.com.br" site_id="7" xmltv_id="Band News">Band News</channel>
+    <channel update="i" site="clarotv.com.br" site_id="81" xmltv_id="Record News FHD">Record News FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RCN" xmltv_id="Record News FHD">Record News FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="81" xmltv_id="Record News HD">Record News HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RCN" xmltv_id="Record News HD">Record News HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RCN" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="clarotv.com.br" site_id="81" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="clarotv.com.br" site_id="93" xmltv_id="SporTV FHD">SporTV FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPO" xmltv_id="SporTV FHD">SporTV FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="93" xmltv_id="SporTV HD">SporTV HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPO" xmltv_id="SporTV HD">SporTV HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPO" xmltv_id="SporTV">SporTV</channel>
+    <channel update="i" site="clarotv.com.br" site_id="93" xmltv_id="SporTV">SporTV</channel>
+    <channel update="i" site="clarotv.com.br" site_id="93" xmltv_id="SporTV HD Alternativo">SporTV HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPO" xmltv_id="SporTV HD Alternativo">SporTV HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SP2" xmltv_id="SporTV 2 FHD">SporTV 2 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SP2" xmltv_id="SporTV 2 HD">SporTV 2 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SP2" xmltv_id="SporTV 2 HD Alternativo">SporTV 2 HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SP3" xmltv_id="SporTV 3 FHD">SporTV 3 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SP3" xmltv_id="SporTV 3 HD">SporTV 3 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SP3" xmltv_id="SporTV 3">SporTV 3</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SP3" xmltv_id="SporTV 3 HD Alternativo">SporTV 3 HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FSP" xmltv_id="FOX Sports FHD">FOX Sports FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FSP" xmltv_id="FOX Sports HD">FOX Sports HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="92" xmltv_id="Fox Sports">Fox Sports</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FSP" xmltv_id="FOX Sports HD Alternativo">FOX Sports HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FS2" xmltv_id="FOX Sports 2 FHD">FOX Sports 2 FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="248" xmltv_id="Fox Sports 2 HD">Fox Sports 2 HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="248" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="clarotv.com.br" site_id="248" xmltv_id="Fox Sports 2 HD Alternativo">Fox Sports 2 HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="35" xmltv_id="ESPN Brasil FHD">ESPN Brasil FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESB" xmltv_id="ESPN Brasil FHD">ESPN Brasil FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="35" xmltv_id="ESPN Brasil HD">ESPN Brasil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESB" xmltv_id="ESPN Brasil HD">ESPN Brasil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESB" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="35" xmltv_id="ESPN Brasil">ESPN Brasil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="35" xmltv_id="ESPN Brasil HD Alternativo">ESPN Brasil HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESB" xmltv_id="ESPN Brasil HD Alternativo">ESPN Brasil HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="36" xmltv_id="ESPN FHD">ESPN FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESP" xmltv_id="ESPN FHD">ESPN FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="36" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESP" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESP" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="clarotv.com.br" site_id="36" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="clarotv.com.br" site_id="36" xmltv_id="ESPN HD Alternativo">ESPN HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESP" xmltv_id="ESPN HD Alternativo">ESPN HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESH" xmltv_id="ESPN 2 FHD">ESPN 2 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESH" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESH" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESH" xmltv_id="ESPN 2 HD Alternativo">ESPN 2 HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESR" xmltv_id="ESPN Extra FHD">ESPN Extra FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESR" xmltv_id="ESPN Extra HD">ESPN Extra HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESR" xmltv_id="ESPN Extra">ESPN Extra</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ESR" xmltv_id="ESPN Extra HD Alternativo">ESPN Extra HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="23" xmltv_id="Combate FHD">Combate FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="135" xmltv_id="Combate FHD">Combate FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="23" xmltv_id="Combate HD">Combate HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="135" xmltv_id="Combate HD">Combate HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="135" xmltv_id="Combate">Combate</channel>
+    <channel update="i" site="clarotv.com.br" site_id="23" xmltv_id="Combate">Combate</channel>
+    <channel update="i" site="clarotv.com.br" site_id="23" xmltv_id="Combate FHD²">Combate FHD²</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="135" xmltv_id="Combate FHD²">Combate FHD²</channel>
+    <channel update="i" site="clarotv.com.br" site_id="23" xmltv_id="Combate HD Alternativo">Combate HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="135" xmltv_id="Combate HD Alternativo">Combate HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="8" xmltv_id="Band Sports FHD">Band Sports FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BSP" xmltv_id="Band Sports FHD">Band Sports FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="8" xmltv_id="Band Sports HD">Band Sports HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BSP" xmltv_id="Band Sports HD">Band Sports HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BSP" xmltv_id="Band Sports">Band Sports</channel>
+    <channel update="i" site="clarotv.com.br" site_id="8" xmltv_id="Band Sports">Band Sports</channel>
+    <channel update="i" site="clarotv.com.br" site_id="8" xmltv_id="Band Sports HD Alternativo">Band Sports HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BSP" xmltv_id="Band Sports HD Alternativo">Band Sports HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="75" xmltv_id="Premiere Clubes FHD">Premiere Clubes FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="121" xmltv_id="Premiere Clubes FHD">Premiere Clubes FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="75" xmltv_id="Premiere Clubes HD">Premiere Clubes HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="121" xmltv_id="Premiere Clubes HD">Premiere Clubes HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="121" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+    <channel update="i" site="clarotv.com.br" site_id="75" xmltv_id="Premiere Clubes">Premiere Clubes</channel>
+    <channel update="i" site="clarotv.com.br" site_id="75" xmltv_id="Premiere Clubes FHD²">Premiere Clubes FHD²</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="121" xmltv_id="Premiere Clubes FHD²">Premiere Clubes FHD²</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A2" xmltv_id="Premiere 2 FHD">Premiere 2 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A2" xmltv_id="Premiere 2 HD">Premiere 2 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A2" xmltv_id="Premiere 2">Premiere 2</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A3" xmltv_id="Premiere 3 FHD">Premiere 3 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A3" xmltv_id="Premiere 3 HD">Premiere 3 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A3" xmltv_id="Premiere 3">Premiere 3</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A4" xmltv_id="Premiere 4 FHD">Premiere 4 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A4" xmltv_id="Premiere 4 HD">Premiere 4 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A4" xmltv_id="Premiere 4">Premiere 4</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A5" xmltv_id="Premiere 5 FHD">Premiere 5 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A5" xmltv_id="Premiere 5 HD">Premiere 5 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A5" xmltv_id="Premiere 5">Premiere 5</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A6" xmltv_id="Premiere 6 FHD">Premiere 6 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A6" xmltv_id="Premiere 6 HD">Premiere 6 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A6" xmltv_id="Premiere 6">Premiere 6</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A7" xmltv_id="Premiere 7 FHD">Premiere 7 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A7" xmltv_id="Premiere 7 HD">Premiere 7 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A7" xmltv_id="Premiere 7">Premiere 7</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="9A8" xmltv_id="Premiere 8">Premiere 8</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="781" xmltv_id="Premiere 9">Premiere 9</channel>
+    <channel update="i" site="clarotv.com.br" site_id="117" xmltv_id="Telecine Premium FHD">Telecine Premium FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC1" xmltv_id="Telecine Premium FHD">Telecine Premium FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="117" xmltv_id="Telecine Premium HD">Telecine Premium HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC1" xmltv_id="Telecine Premium HD">Telecine Premium HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC1" xmltv_id="Telecine Premium">Telecine Premium</channel>
+    <channel update="i" site="clarotv.com.br" site_id="117" xmltv_id="Telecine Premium">Telecine Premium</channel>
+    <channel update="i" site="clarotv.com.br" site_id="117" xmltv_id="Telecine Premium HD Alternativo">Telecine Premium HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC1" xmltv_id="Telecine Premium HD Alternativo">Telecine Premium HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="116" xmltv_id="Telecine Pipoca FHD">Telecine Pipoca FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC4" xmltv_id="Telecine Pipoca FHD">Telecine Pipoca FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="116" xmltv_id="Telecine Pipoca HD">Telecine Pipoca HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC4" xmltv_id="Telecine Pipoca HD">Telecine Pipoca HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC4" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+    <channel update="i" site="clarotv.com.br" site_id="116" xmltv_id="Telecine Pipoca">Telecine Pipoca</channel>
+    <channel update="i" site="clarotv.com.br" site_id="116" xmltv_id="Telecine Pipoca HD Alternativo">Telecine Pipoca HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC4" xmltv_id="Telecine Pipoca HD Alternativo">Telecine Pipoca HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="112" xmltv_id="Telecine Action FHD">Telecine Action FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC2" xmltv_id="Telecine Action FHD">Telecine Action FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="112" xmltv_id="Telecine Action HD">Telecine Action HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC2" xmltv_id="Telecine Action HD">Telecine Action HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC2" xmltv_id="Telecine Action">Telecine Action</channel>
+    <channel update="i" site="clarotv.com.br" site_id="112" xmltv_id="Telecine Action">Telecine Action</channel>
+    <channel update="i" site="clarotv.com.br" site_id="112" xmltv_id="Telecine Action HD Alternativo">Telecine Action HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC2" xmltv_id="Telecine Action HD Alternativo">Telecine Action HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="115" xmltv_id="Telecine Touch FHD">Telecine Touch FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC3" xmltv_id="Telecine Touch FHD">Telecine Touch FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="115" xmltv_id="Telecine Touch HD">Telecine Touch HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC3" xmltv_id="Telecine Touch HD">Telecine Touch HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC3" xmltv_id="Telecine Touch">Telecine Touch</channel>
+    <channel update="i" site="clarotv.com.br" site_id="115" xmltv_id="Telecine Touch">Telecine Touch</channel>
+    <channel update="i" site="clarotv.com.br" site_id="115" xmltv_id="Telecine Touch HD Alternativo">Telecine Touch HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC3" xmltv_id="Telecine Touch HD Alternativo">Telecine Touch HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="114" xmltv_id="Telecine Fun FHD">Telecine Fun FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC6" xmltv_id="Telecine Fun FHD">Telecine Fun FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="114" xmltv_id="Telecine Fun HD">Telecine Fun HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC6" xmltv_id="Telecine Fun HD">Telecine Fun HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC6" xmltv_id="Telecine Fun">Telecine Fun</channel>
+    <channel update="i" site="clarotv.com.br" site_id="114" xmltv_id="Telecine Fun">Telecine Fun</channel>
+    <channel update="i" site="clarotv.com.br" site_id="114" xmltv_id="Telecine Fun HD Alternativo">Telecine Fun HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC6" xmltv_id="Telecine Fun HD Alternativo">Telecine Fun HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="113" xmltv_id="Telecine Cult FHD">Telecine Cult FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC5" xmltv_id="Telecine Cult FHD">Telecine Cult FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="113" xmltv_id="Telecine Cult HD">Telecine Cult HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC5" xmltv_id="Telecine Cult HD">Telecine Cult HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC5" xmltv_id="Telecine Cult">Telecine Cult</channel>
+    <channel update="i" site="clarotv.com.br" site_id="113" xmltv_id="Telecine Cult">Telecine Cult</channel>
+    <channel update="i" site="clarotv.com.br" site_id="113" xmltv_id="Telecine Cult HD Alternativo">Telecine Cult HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC5" xmltv_id="Telecine Cult HD Alternativo">Telecine Cult HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="67" xmltv_id="Megapix HD Alternativo">Megapix HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MPX" xmltv_id="Megapix HD Alternativo">Megapix HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="USA" xmltv_id="Universal TV FHD">Universal TV FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="USA" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="USA" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="USA" xmltv_id="Universal TV HD Alternativo">Universal TV HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="95" xmltv_id="Studio Universal FHD">Studio Universal FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HAL" xmltv_id="Studio Universal FHD">Studio Universal FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="95" xmltv_id="Studio Universal HD">Studio Universal HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HAL" xmltv_id="Studio Universal HD">Studio Universal HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HAL" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="clarotv.com.br" site_id="95" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel update="i" site="clarotv.com.br" site_id="95" xmltv_id="Studio Universal HD Alternativo">Studio Universal HD Alternativo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HAL" xmltv_id="Studio Universal HD Alternativo">Studio Universal HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="88" xmltv_id="SyFy HD">SyFy HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="88" xmltv_id="SyFy HD Alternativo">SyFy HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO FHD">HBO FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HBO FHD" xmltv_id="HBO FHD">HBO FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HBO HD" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HBO" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="clarotv.com.br" site_id="50" xmltv_id="HBO 2 FHD">HBO 2 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HB2" xmltv_id="HBO 2 FHD">HBO 2 FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="50" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HB2" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HB2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="clarotv.com.br" site_id="50" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="clarotv.com.br" site_id="51" xmltv_id="HBO Signature FHD">HBO Signature FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HFE" xmltv_id="HBO Signature FHD">HBO Signature FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="51" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HFE" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HFE" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="clarotv.com.br" site_id="51" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="clarotv.com.br" site_id="52" xmltv_id="HBO Family FHD">HBO Family FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HFA" xmltv_id="HBO Family FHD">HBO Family FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="52" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HFA" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HFA" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="clarotv.com.br" site_id="52" xmltv_id="HBO Family">HBO Family</channel>
+    <channel update="i" site="clarotv.com.br" site_id="55" xmltv_id="HBO Plus FHD">HBO Plus FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HPL" xmltv_id="HBO Plus FHD">HBO Plus FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="55" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HPL" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HPL" xmltv_id="HBO Plus">HBO Plus</channel>
+    <channel update="i" site="clarotv.com.br" site_id="55" xmltv_id="HBO Plus">HBO Plus</channel>
+    <channel update="i" site="clarotv.com.br" site_id="65" xmltv_id="Max Prime FHD">Max Prime FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="65" xmltv_id="Max Prime HD">Max Prime HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="65" xmltv_id="Max Prime">Max Prime</channel>
+    <channel update="i" site="clarotv.com.br" site_id="21" xmltv_id="Max FHD">Max FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MXE" xmltv_id="MAX HD">MAX HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="21" xmltv_id="Max">Max</channel>
+    <channel update="i" site="clarotv.com.br" site_id="124" xmltv_id="Warner Channel FHD">Warner Channel FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="WBT" xmltv_id="Warner Channel FHD">Warner Channel FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="124" xmltv_id="Warner Channel HD">Warner Channel HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="WBT" xmltv_id="Warner Channel HD">Warner Channel HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="WBT" xmltv_id="Warner Channel">Warner Channel</channel>
+    <channel update="i" site="clarotv.com.br" site_id="124" xmltv_id="Warner Channel">Warner Channel</channel>
+    <channel update="i" site="clarotv.com.br" site_id="19" xmltv_id="Cinemax FHD">Cinemax FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MNX" xmltv_id="Cinemax FHD">Cinemax FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="19" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MNX" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MNX" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="clarotv.com.br" site_id="19" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="clarotv.com.br" site_id="91" xmltv_id="Space FHD">Space FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPA" xmltv_id="Space FHD">Space FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="91" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPA" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPA" xmltv_id="Space">Space</channel>
+    <channel update="i" site="clarotv.com.br" site_id="91" xmltv_id="Space">Space</channel>
+    <channel update="i" site="clarotv.com.br" site_id="123" xmltv_id="Paramount FHD">Paramount FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="123" xmltv_id="Paramount HD">Paramount HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="123" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="clarotv.com.br" site_id="100" xmltv_id="TNT FHD">TNT FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TNT FHD" xmltv_id="TNT FHD">TNT FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="100" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TNT HD" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TNT" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="clarotv.com.br" site_id="100" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TNS" xmltv_id="TNT Séries FHD">TNT Séries FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TNS" xmltv_id="TNT Séries HD">TNT Séries HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TNS" xmltv_id="TNT Séries">TNT Séries</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MGM" xmltv_id="AMC FHD">AMC FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MGM" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MGM" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="clarotv.com.br" site_id="2" xmltv_id="AXN FHD">AXN FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="AXN FHD" xmltv_id="AXN FHD">AXN FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="2" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="AXN HD" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="clarotv.com.br" site_id="2" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="clarotv.com.br" site_id="40" xmltv_id="FOX FHD">FOX FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="40" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FO1" xmltv_id="FOX Premium 1 HD">FOX Premium 1 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FOA" xmltv_id="FOX Premium 2 HD">FOX Premium 2 HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="249" xmltv_id="Fox Life FHD">Fox Life FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FLI" xmltv_id="FOX Life HD">FOX Life HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="249" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FLI" xmltv_id="FOX Life HD Alternativo">FOX Life HD Alternativo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="42" xmltv_id="FX FHD">FX FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CFX FHD" xmltv_id="FX FHD">FX FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="42" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CFX HD" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CFX" xmltv_id="FX">FX</channel>
+    <channel update="i" site="clarotv.com.br" site_id="42" xmltv_id="FX">FX</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SET" xmltv_id="Sony Channel FHD">Sony Channel FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SET" xmltv_id="Sony Channel HD">Sony Channel HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="90" xmltv_id="Sony">Sony</channel>
+    <channel update="i" site="clarotv.com.br" site_id="224" xmltv_id="TBS FHD">TBS FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TBS FHD" xmltv_id="TBS FHD">TBS FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="224" xmltv_id="TBS HD">TBS HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TBS HD" xmltv_id="TBS HD">TBS HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TBS" xmltv_id="TBS">TBS</channel>
+    <channel update="i" site="clarotv.com.br" site_id="224" xmltv_id="TBS">TBS</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TCM" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="clarotv.com.br" site_id="96" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="clarotv.com.br" site_id="2" xmltv_id="AXN HD - LEG">AXN HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="AXN HD - LEG" xmltv_id="AXN HD - LEG">AXN HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="40" xmltv_id="FOX HD - LEG">FOX HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="42" xmltv_id="FX HD - LEG">FX HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CFX HD - LEG" xmltv_id="FX HD - LEG">FX HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="56" xmltv_id="HBO HD - LEG">HBO HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HBO HD - LEG" xmltv_id="HBO HD - LEG">HBO HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="55" xmltv_id="HBO Plus HD - LEG">HBO Plus HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HPL" xmltv_id="HBO Plus HD - LEG">HBO Plus HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SET" xmltv_id="Sony Channel HD - LEG">Sony Channel HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="91" xmltv_id="Space HD - LEG">Space HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SPA" xmltv_id="Space HD - LEG">Space HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="112" xmltv_id="Telecine Action HD - LEG">Telecine Action HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC2" xmltv_id="Telecine Action HD - LEG">Telecine Action HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="114" xmltv_id="Telecine Fun HD - LEG">Telecine Fun HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC6" xmltv_id="Telecine Fun HD - LEG">Telecine Fun HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="116" xmltv_id="Telecine Pipoca HD - LEG">Telecine Pipoca HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC4" xmltv_id="Telecine Pipoca HD - LEG">Telecine Pipoca HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="117" xmltv_id="Telecine Premium HD - LEG">Telecine Premium HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC1" xmltv_id="Telecine Premium HD - LEG">Telecine Premium HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="115" xmltv_id="Telecine Touch HD - LEG">Telecine Touch HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TC3" xmltv_id="Telecine Touch HD - LEG">Telecine Touch HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="100" xmltv_id="TNT HD - LEG">TNT HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TNT HD - LEG" xmltv_id="TNT HD - LEG">TNT HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="124" xmltv_id="Warner Channel HD - LEG">Warner Channel HD - LEG</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="WBT" xmltv_id="Warner Channel HD - LEG">Warner Channel HD - LEG</channel>
+    <channel update="i" site="clarotv.com.br" site_id="3" xmltv_id="Animal Planet FHD">Animal Planet FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="APL" xmltv_id="Animal Planet FHD">Animal Planet FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="3" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="APL" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="APL" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="clarotv.com.br" site_id="3" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="clarotv.com.br" site_id="28" xmltv_id="Discovery Channel FHD">Discovery Channel FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="28" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="28" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="clarotv.com.br" site_id="147" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DTU" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DTU" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="147" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DCI" xmltv_id="Discovery Civilization FHD">Discovery Civilization FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DCI" xmltv_id="Discovery Civilization HD">Discovery Civilization HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DCI" xmltv_id="Discovery Civilization">Discovery Civilization</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DSC" xmltv_id="Discovery Science FHD">Discovery Science FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DSC" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DSC" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HIS" xmltv_id="History FHD">History FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HIS" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="HIS" xmltv_id="History">History</channel>
+    <channel update="i" site="clarotv.com.br" site_id="10" xmltv_id="H2 FHD">H2 FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="10" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="10" xmltv_id="H2">H2</channel>
+    <channel update="i" site="clarotv.com.br" site_id="71" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NGW" xmltv_id="Nat Geo Wild FHD">Nat Geo Wild FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NGW" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NGW" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SMI" xmltv_id="Smithsonian Channel FHD">Smithsonian Channel FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SMI" xmltv_id="Smithsonian Channel HD">Smithsonian Channel HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SMI" xmltv_id="Smithsonian Channel">Smithsonian Channel</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ6" xmltv_id="Fish TV FHD">Fish TV FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ6" xmltv_id="Fish TV HD">Fish TV HD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="68" xmltv_id="Multishow FHD">Multishow FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MSW" xmltv_id="Multishow FHD">Multishow FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="68" xmltv_id="Multishow HD">Multishow HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MSW" xmltv_id="Multishow HD">Multishow HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MSW" xmltv_id="Multishow">Multishow</channel>
+    <channel update="i" site="clarotv.com.br" site_id="68" xmltv_id="Multishow">Multishow</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="VIV" xmltv_id="Viva FHD">Viva FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="VIV" xmltv_id="Viva HD">Viva HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="VIV" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="clarotv.com.br" site_id="48" xmltv_id="GNT FHD">GNT FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GNT FHD" xmltv_id="GNT FHD">GNT FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="48" xmltv_id="GNT HD">GNT HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GNT HD" xmltv_id="GNT HD">GNT HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GNT" xmltv_id="GNT">GNT</channel>
+    <channel update="i" site="clarotv.com.br" site_id="48" xmltv_id="GNT">GNT</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GHS" xmltv_id="Mais Globosat FHD">Mais Globosat FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GHS" xmltv_id="Mais Globosat HD">Mais Globosat HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GHS" xmltv_id="Mais Globosat">Mais Globosat</channel>
+    <channel update="i" site="clarotv.com.br" site_id="188" xmltv_id="Comedy Central FHD">Comedy Central FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CCE" xmltv_id="Comedy Central FHD">Comedy Central FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="188" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CCE" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="clarotv.com.br" site_id="188" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MTV FHD" xmltv_id="MTV FHD">MTV FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MTV HD" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="clarotv.com.br" site_id="202" xmltv_id="BIS FHD">BIS FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MSD" xmltv_id="BIS FHD">BIS FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="202" xmltv_id="BIS HD">BIS HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MSD" xmltv_id="BIS HD">BIS HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MSD" xmltv_id="BIS">BIS</channel>
+    <channel update="i" site="clarotv.com.br" site_id="202" xmltv_id="BIS">BIS</channel>
+    <channel update="i" site="clarotv.com.br" site_id="148" xmltv_id="Prime Box Brazil FHD">Prime Box Brazil FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ7" xmltv_id="Prime Box Brazil FHD">Prime Box Brazil FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="148" xmltv_id="Prime Box Brazil HD">Prime Box Brazil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ7" xmltv_id="Prime Box Brazil HD">Prime Box Brazil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ7" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="148" xmltv_id="Prime Box Brazil">Prime Box Brazil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="222" xmltv_id="Music Box Brazil FHD">Music Box Brazil FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MUB" xmltv_id="Music Box Brazil FHD">Music Box Brazil FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="222" xmltv_id="Music Box Brazil HD">Music Box Brazil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MUB" xmltv_id="Music Box Brazil HD">Music Box Brazil HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MUB" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="222" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
+    <channel update="i" site="clarotv.com.br" site_id="120" xmltv_id="TruTV FHD">TruTV FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="200" xmltv_id="OFF FHD">OFF FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="OFF FHD" xmltv_id="OFF FHD">OFF FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="200" xmltv_id="OFF HD">OFF HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="OFF HD" xmltv_id="OFF HD">OFF HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="OFF" xmltv_id="OFF">OFF</channel>
+    <channel update="i" site="clarotv.com.br" site_id="200" xmltv_id="OFF">OFF</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="WOO" xmltv_id="Woohoo FHD">Woohoo FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="WOO" xmltv_id="Woohoo HD">Woohoo HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="WOO" xmltv_id="Woohoo">Woohoo</channel>
+    <channel update="i" site="clarotv.com.br" site_id="31" xmltv_id="TLC FHD">TLC FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TRV" xmltv_id="TLC FHD">TLC FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="31" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TRV" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TRV" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="clarotv.com.br" site_id="31" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FOD" xmltv_id="Food Network FHD">Food Network FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FOD" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="FOD" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="clarotv.com.br" site_id="34" xmltv_id="E! FHD">E! FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="EET" xmltv_id="E! FHD">E! FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="34" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="EET" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="EET" xmltv_id="E!">E!</channel>
+    <channel update="i" site="clarotv.com.br" site_id="34" xmltv_id="E!">E!</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ANX" xmltv_id="Lifetime FHD">Lifetime FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ANX" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="ANX" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="clarotv.com.br" site_id="211" xmltv_id="Arte 1 FHD">Arte 1 FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ5" xmltv_id="Arte 1 FHD">Arte 1 FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="211" xmltv_id="Arte 1 HD">Arte 1 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ5" xmltv_id="Arte 1 HD">Arte 1 HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BQ5" xmltv_id="Arte 1">Arte 1</channel>
+    <channel update="i" site="clarotv.com.br" site_id="211" xmltv_id="Arte 1">Arte 1</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SHO" xmltv_id="Shoptime HD">Shoptime HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="SHO" xmltv_id="Shoptime">Shoptime</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NHK" xmltv_id="NHK">NHK</channel>
+    <channel update="i" site="clarotv.com.br" site_id="234" xmltv_id="Rede Vida FHD">Rede Vida FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="VDA" xmltv_id="Rede Vida FHD">Rede Vida FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="234" xmltv_id="Rede Vida HD">Rede Vida HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="VDA" xmltv_id="Rede Vida HD">Rede Vida HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="VDA" xmltv_id="Rede Vida">Rede Vida</channel>
+    <channel update="i" site="clarotv.com.br" site_id="234" xmltv_id="Rede Vida">Rede Vida</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="APA" xmltv_id="TV Aparecida HD">TV Aparecida HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="APA" xmltv_id="TV Aparecida">TV Aparecida</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CNV" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel update="i" site="clarotv.com.br" site_id="102" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel update="i" site="clarotv.com.br" site_id="229" xmltv_id="Rede CNT">Rede CNT</channel>
+    <channel update="i" site="clarotv.com.br" site_id="357" xmltv_id="Boa Vontade TV">Boa Vontade TV</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RIT" xmltv_id="RIT TV">RIT TV</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="MIX" xmltv_id="RBI TV">RBI TV</channel>
+    <channel update="i" site="clarotv.com.br" site_id="230" xmltv_id="RBI TV">RBI TV</channel>
+    <channel update="i" site="clarotv.com.br" site_id="30" xmltv_id="Discovery Kids FHD">Discovery Kids FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DIK" xmltv_id="Discovery Kids FHD">Discovery Kids FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DIK" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="clarotv.com.br" site_id="30" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DNY" xmltv_id="Disney Channel FHD">Disney Channel FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DNY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="clarotv.com.br" site_id="18" xmltv_id="Cartoon Network FHD">Cartoon Network FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CAR" xmltv_id="Cartoon Network FHD">Cartoon Network FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="18" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CAR" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="CAR" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="clarotv.com.br" site_id="18" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="clarotv.com.br" site_id="74" xmltv_id="Nickelodeon FHD">Nickelodeon FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NIC" xmltv_id="Nickelodeon FHD">Nickelodeon FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="74" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NIC" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="clarotv.com.br" site_id="74" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="clarotv.com.br" site_id="191" xmltv_id="Gloob FHD">Gloob FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GOB" xmltv_id="Gloob FHD">Gloob FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="191" xmltv_id="Gloob HD">Gloob HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GOB" xmltv_id="Gloob HD">Gloob HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="GOB" xmltv_id="Gloob">Gloob</channel>
+    <channel update="i" site="clarotv.com.br" site_id="191" xmltv_id="Gloob">Gloob</channel>
+    <channel update="i" site="clarotv.com.br" site_id="11" xmltv_id="Boomerang FHD">Boomerang FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BMG" xmltv_id="Boomerang FHD">Boomerang FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="11" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BMG" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="BMG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="clarotv.com.br" site_id="11" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NGK" xmltv_id="Nat Geo Kids FHD">Nat Geo Kids FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NGK" xmltv_id="Nat Geo Kids HD">Nat Geo Kids HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="NGK" xmltv_id="Nat Geo Kids">Nat Geo Kids</channel>
+    <channel update="i" site="clarotv.com.br" site_id="109" xmltv_id="TV Rá Tim Bum FHD">TV Rá Tim Bum FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RTB" xmltv_id="TV Rá Tim Bum FHD">TV Rá Tim Bum FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="109" xmltv_id="TV Rá Tim Bum HD">TV Rá Tim Bum HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RTB" xmltv_id="TV Rá Tim Bum HD">TV Rá Tim Bum HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="RTB" xmltv_id="TV Rá Tim Bum">TV Rá Tim Bum</channel>
+    <channel update="i" site="clarotv.com.br" site_id="109" xmltv_id="TV Rá Tim Bum">TV Rá Tim Bum</channel>
+    <channel update="i" site="clarotv.com.br" site_id="32" xmltv_id="Disney XD FHD">Disney XD FHD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DXD" xmltv_id="Disney XD FHD">Disney XD FHD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="32" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DXD" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="clarotv.com.br" site_id="32" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TOC" xmltv_id="Tooncast HD">Tooncast HD</channel>
+    <channel update="i" site="tvplus.com.br.E" site_id="TOC" xmltv_id="Tooncast">Tooncast</channel>
+</settings>
